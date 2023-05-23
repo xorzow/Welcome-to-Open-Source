@@ -76,7 +76,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/xorzow">
+                <a href="https://github.com/xorzow/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Ananth Rajesh"/>
                     <br />
                     <sub><b>Ananth Rajesh</b></sub>
