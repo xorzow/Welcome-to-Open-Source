@@ -4,7 +4,7 @@
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
     <li>Add a <b>Tweet</b> with the Repo's link and tagging the owner (alisolankii)</li>
     <li>If you're a member on the channel, you'll get priority access (<a href="https://youtube.com/AliSolanki/join">Click Here</a>)</li>
-</p>
+</p>dasdasd
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
